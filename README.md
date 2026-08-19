@@ -22,4 +22,4 @@ Run the application as Administrator (required for system window management and 
 Authorize using your credentials in the startup console window (default: admin / admin).
 
 ⚠️⚠️⚠️Note on Antivirus⚠️⚠️⚠️
-Antivirus software (including Windows Defender) might flag this executable because it is an unsigned .exe file compiled from Python using PyInstaller and requests Administrator rights (--uac-admin) to manage overlay windows. This is a common false positive for portable compiled utilities. The source code is completely open-source and can be inspected directly in this repository.
+Antivirus software (including Windows Defender) might flag this executable because it is an unsigned .exe file compiled from Python using PyInstaller
